@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FOE.41.008.004.21.props" />
+</Project>

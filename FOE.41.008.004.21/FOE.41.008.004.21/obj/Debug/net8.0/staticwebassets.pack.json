@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Anisha\\source\\repos\\FOE.41.008.004.21\\FOE.41.008.004.21\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FOE.41.008.004.21.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FOE.41.008.004.21.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Anisha\\source\\repos\\FOE.41.008.004.21\\FOE.41.008.004.21\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Anisha\\source\\repos\\FOE.41.008.004.21\\FOE.41.008.004.21\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Anisha\\source\\repos\\FOE.41.008.004.21\\FOE.41.008.004.21\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anisha\\source\\repos\\FOE.41.008.004.21\\FOE.41.008.004.21\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FOE.41.008.004.21.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FOE.41.008.004.21.props",
+      "PackagePath": "build\\FOE.41.008.004.21.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FOE.41.008.004.21.props",
+      "PackagePath": "buildMultiTargeting\\FOE.41.008.004.21.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FOE.41.008.004.21.props",
+      "PackagePath": "buildTransitive\\FOE.41.008.004.21.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
